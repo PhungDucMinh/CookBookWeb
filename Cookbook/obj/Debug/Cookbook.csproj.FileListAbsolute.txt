@@ -14,7 +14,6 @@ D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Fac
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Microsoft.Data.Edm.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Microsoft.Data.OData.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Microsoft.Web.Infrastructure.dll
-D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Microsoft.Web.WebPages.OAuth.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\Newtonsoft.Json.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\System.Net.Http.Formatting.dll
@@ -89,3 +88,5 @@ D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\zh-
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\obj\Debug\Cookbook.dll
 D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\WebMatrix.Data.dll
+D:\Visual Studio 2015 Projects\Website CookBook\Source\Cookbook\Cookbook\bin\WebMatrix.Data.xml
