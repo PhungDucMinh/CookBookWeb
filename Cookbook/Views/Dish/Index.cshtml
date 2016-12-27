@@ -204,8 +204,7 @@
 
             $.ajax({
                 type: "POST",
-                url: 'http://
-    .apphb.com/api/BinhLuan',
+                url: 'http://cookbook-kcpm.apphb.com/api/BinhLuan',
                 data: JSON.stringify(binhluan),
                 contentType: "application/json; charset=utf-8",
                 dataType: "json",
@@ -226,7 +225,7 @@
 
                     FB.ui({
                         method: 'feed',
-                        link: 'http://cookbookweb.apphb.com/dish/' + mamon,
+                        link: 'http://cookbookweb-kcpm.apphb.com/dish/' + mamon,
                         picture: '@Model.Hinh',
                         caption: '@Model.TenMonAn',
                         description: 'Mạng xã hội Cookbook dành cho mọi người yêu thích món ăn có thể tham gia nấu nướng và chia sẻ đến với mọi người.'
